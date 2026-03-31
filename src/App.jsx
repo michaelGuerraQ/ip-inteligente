@@ -234,7 +234,7 @@ function App() {
           
           <div className="space-y-2">
             <p className="opacity-80 text-[10px] md:text-xs font-mono uppercase tracking-widest">
-              {t.poweredBy} <a href="https://ipquery.io" target="_blank" rel="noreferrer" className="text-indigo-400 hover:text-indigo-300 transition-colors">ipquery.io</a>
+              {t.poweredBy} <a href="https://ipquery.io" target="_blank" rel="noreferrer" className="text-indigo-400 hover:text-indigo-300 transition-colors"> Developed by Michael</a>
             </p>
             <p className="opacity-60 text-[9px] md:text-[10px] font-mono uppercase tracking-[0.2em]">
               © 2026 IP Intelligence Terminal v2.7
