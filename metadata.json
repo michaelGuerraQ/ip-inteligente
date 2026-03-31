@@ -1,0 +1,5 @@
+{
+  "name": "IP Intelligence Dashboard",
+  "description": "A modern dashboard to analyze IP addresses, providing geolocation data and security risk assessment using the ipquery.io API.",
+  "requestFramePermissions": []
+}
